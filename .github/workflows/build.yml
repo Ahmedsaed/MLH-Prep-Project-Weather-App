@@ -51,5 +51,5 @@ jobs:
       env:
         user_name: 'Ahmedsaed'
         user_email: 'ahmedsaed2652003@gmail.com'
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.BUILDANDDEPLOY }}
         repository: ${{ github.repository }}
