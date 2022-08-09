@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MLH-Prep-Project-Weather-App/static/css/main.17c04cd6.chunk.css",
+    "main.js": "/MLH-Prep-Project-Weather-App/static/js/main.e1cbdbc9.chunk.js",
+    "main.js.map": "/MLH-Prep-Project-Weather-App/static/js/main.e1cbdbc9.chunk.js.map",
+    "runtime-main.js": "/MLH-Prep-Project-Weather-App/static/js/runtime-main.5d925824.js",
+    "runtime-main.js.map": "/MLH-Prep-Project-Weather-App/static/js/runtime-main.5d925824.js.map",
+    "static/css/2.087c0719.chunk.css": "/MLH-Prep-Project-Weather-App/static/css/2.087c0719.chunk.css",
+    "static/js/2.d38c62dc.chunk.js": "/MLH-Prep-Project-Weather-App/static/js/2.d38c62dc.chunk.js",
+    "static/js/2.d38c62dc.chunk.js.map": "/MLH-Prep-Project-Weather-App/static/js/2.d38c62dc.chunk.js.map",
+    "index.html": "/MLH-Prep-Project-Weather-App/index.html",
+    "static/css/2.087c0719.chunk.css.map": "/MLH-Prep-Project-Weather-App/static/css/2.087c0719.chunk.css.map",
+    "static/css/main.17c04cd6.chunk.css.map": "/MLH-Prep-Project-Weather-App/static/css/main.17c04cd6.chunk.css.map",
+    "static/js/2.d38c62dc.chunk.js.LICENSE.txt": "/MLH-Prep-Project-Weather-App/static/js/2.d38c62dc.chunk.js.LICENSE.txt",
+    "static/media/mlh-prep.270f6887.png": "/MLH-Prep-Project-Weather-App/static/media/mlh-prep.270f6887.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d925824.js",
+    "static/css/2.087c0719.chunk.css",
+    "static/js/2.d38c62dc.chunk.js",
+    "static/css/main.17c04cd6.chunk.css",
+    "static/js/main.e1cbdbc9.chunk.js"
+  ]
+}
