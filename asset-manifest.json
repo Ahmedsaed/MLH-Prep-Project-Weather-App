@@ -1,24 +1,33 @@
 {
   "files": {
-    "main.css": "/MLH-Prep-Project-Weather-App/static/css/main.17c04cd6.chunk.css",
-    "main.js": "/MLH-Prep-Project-Weather-App/static/js/main.53084746.chunk.js",
-    "main.js.map": "/MLH-Prep-Project-Weather-App/static/js/main.53084746.chunk.js.map",
-    "runtime-main.js": "/MLH-Prep-Project-Weather-App/static/js/runtime-main.5d925824.js",
-    "runtime-main.js.map": "/MLH-Prep-Project-Weather-App/static/js/runtime-main.5d925824.js.map",
-    "static/css/2.299b39e0.chunk.css": "/MLH-Prep-Project-Weather-App/static/css/2.299b39e0.chunk.css",
-    "static/js/2.e15559a6.chunk.js": "/MLH-Prep-Project-Weather-App/static/js/2.e15559a6.chunk.js",
-    "static/js/2.e15559a6.chunk.js.map": "/MLH-Prep-Project-Weather-App/static/js/2.e15559a6.chunk.js.map",
-    "index.html": "/MLH-Prep-Project-Weather-App/index.html",
-    "static/css/2.299b39e0.chunk.css.map": "/MLH-Prep-Project-Weather-App/static/css/2.299b39e0.chunk.css.map",
-    "static/css/main.17c04cd6.chunk.css.map": "/MLH-Prep-Project-Weather-App/static/css/main.17c04cd6.chunk.css.map",
-    "static/js/2.e15559a6.chunk.js.LICENSE.txt": "/MLH-Prep-Project-Weather-App/static/js/2.e15559a6.chunk.js.LICENSE.txt",
-    "static/media/mlh-prep.270f6887.png": "/MLH-Prep-Project-Weather-App/static/media/mlh-prep.270f6887.png"
+    "main.css": "/prep-project-22.AUG.PREP.2-proj2-react/static/css/main.ff458740.chunk.css",
+    "main.js": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/main.2e0690b0.chunk.js",
+    "main.js.map": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/main.2e0690b0.chunk.js.map",
+    "runtime-main.js": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/runtime-main.c6c3784c.js",
+    "runtime-main.js.map": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/runtime-main.c6c3784c.js.map",
+    "static/css/2.cded44a3.chunk.css": "/prep-project-22.AUG.PREP.2-proj2-react/static/css/2.cded44a3.chunk.css",
+    "static/js/2.7ec0f084.chunk.js": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/2.7ec0f084.chunk.js",
+    "static/js/2.7ec0f084.chunk.js.map": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/2.7ec0f084.chunk.js.map",
+    "index.html": "/prep-project-22.AUG.PREP.2-proj2-react/index.html",
+    "static/css/2.cded44a3.chunk.css.map": "/prep-project-22.AUG.PREP.2-proj2-react/static/css/2.cded44a3.chunk.css.map",
+    "static/css/main.ff458740.chunk.css.map": "/prep-project-22.AUG.PREP.2-proj2-react/static/css/main.ff458740.chunk.css.map",
+    "static/js/2.7ec0f084.chunk.js.LICENSE.txt": "/prep-project-22.AUG.PREP.2-proj2-react/static/js/2.7ec0f084.chunk.js.LICENSE.txt",
+    "static/media/cap.474e6898.png": "/prep-project-22.AUG.PREP.2-proj2-react/static/media/cap.474e6898.png",
+    "static/media/gloves.45497ed2.png": "/prep-project-22.AUG.PREP.2-proj2-react/static/media/gloves.45497ed2.png",
+    "static/media/jacket.58fadea5.png": "/prep-project-22.AUG.PREP.2-proj2-react/static/media/jacket.58fadea5.png",
+    "static/media/mlh-prep.270f6887.png": "/prep-project-22.AUG.PREP.2-proj2-react/static/media/mlh-prep.270f6887.png",
+    "static/media/raincoat.376a8ef2.png": "/prep-project-22.AUG.PREP.2-proj2-react/static/media/raincoat.376a8ef2.png",
+    "static/media/scarf.fbb31feb.png": "/prep-project-22.AUG.PREP.2-proj2-react/static/media/scarf.fbb31feb.png",
+    "static/media/suncream.d8793979.png": "/prep-project-22.AUG.PREP.2-proj2-react/static/media/suncream.d8793979.png",
+    "static/media/sunglasses.6c5f1538.png": "/prep-project-22.AUG.PREP.2-proj2-react/static/media/sunglasses.6c5f1538.png",
+    "static/media/umbrella.df170598.png": "/prep-project-22.AUG.PREP.2-proj2-react/static/media/umbrella.df170598.png",
+    "static/media/water_proof_boots.a48e94f8.png": "/prep-project-22.AUG.PREP.2-proj2-react/static/media/water_proof_boots.a48e94f8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d925824.js",
-    "static/css/2.299b39e0.chunk.css",
-    "static/js/2.e15559a6.chunk.js",
-    "static/css/main.17c04cd6.chunk.css",
-    "static/js/main.53084746.chunk.js"
+    "static/js/runtime-main.c6c3784c.js",
+    "static/css/2.cded44a3.chunk.css",
+    "static/js/2.7ec0f084.chunk.js",
+    "static/css/main.ff458740.chunk.css",
+    "static/js/main.2e0690b0.chunk.js"
   ]
 }
