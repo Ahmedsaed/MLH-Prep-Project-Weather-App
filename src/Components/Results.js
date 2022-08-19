@@ -68,7 +68,7 @@ export default function ResultsComponent({ isLoaded, results }) {
   
   return (
     <div className="Results">
-      {!isLoaded && <h2>Loading...</h2>}
+      {!isLoaded && <h2 className="results-header">Loading...</h2>}
       {isLoaded && results && (
         <div className="weather-card">
           <div className="main-info">
